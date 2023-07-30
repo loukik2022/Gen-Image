@@ -1,5 +1,5 @@
 
-# 🚀 Gen-Image
+# 🖼️ Gen-Image
 
 AI Image Generator using DALL E 
 
