@@ -15,7 +15,7 @@ AI Image Generator using DALL E
 1.  Install dependencies using npm 
 
 ```bash
-  npm install openai express body-parser cors
+  npm install openai express cors
 ```
 2. Add your own OpenAI API key in index.js.
    ![Screenshot](/auth.png?raw=true "Optional Title")
